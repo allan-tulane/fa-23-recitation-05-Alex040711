@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/alex/Desktop/fa-23-recitation-05-Alex040711",
+      "program": "/Users/alex/Desktop/fa-23-recitation-05-Alex040711/build/Debug/outDebug"
+    }
+  ]
+}
